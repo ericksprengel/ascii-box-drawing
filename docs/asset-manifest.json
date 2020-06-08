@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ascii-box-drawing/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/ascii-box-drawing/static/js/main.b512fead.chunk.js",
+    "main.js.map": "/ascii-box-drawing/static/js/main.b512fead.chunk.js.map",
+    "runtime-main.js": "/ascii-box-drawing/static/js/runtime-main.3e4061da.js",
+    "runtime-main.js.map": "/ascii-box-drawing/static/js/runtime-main.3e4061da.js.map",
+    "static/js/2.b8a2e486.chunk.js": "/ascii-box-drawing/static/js/2.b8a2e486.chunk.js",
+    "static/js/2.b8a2e486.chunk.js.map": "/ascii-box-drawing/static/js/2.b8a2e486.chunk.js.map",
+    "index.html": "/ascii-box-drawing/index.html",
+    "precache-manifest.394bd5783f6ec54642654accf6b1366f.js": "/ascii-box-drawing/precache-manifest.394bd5783f6ec54642654accf6b1366f.js",
+    "service-worker.js": "/ascii-box-drawing/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/ascii-box-drawing/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b8a2e486.chunk.js.LICENSE.txt": "/ascii-box-drawing/static/js/2.b8a2e486.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e4061da.js",
+    "static/js/2.b8a2e486.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.b512fead.chunk.js"
+  ]
+}
